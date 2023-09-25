@@ -4,6 +4,13 @@ Coding Tasks In Current Workflow: This repo serves as just a part of task-manage
 
 ### Todo
 
+Arbitrum Odyssey Reignited:
+
+NFT Collection Tasks:
+
+- [x] Deploy NFT Collection to Arbitrum
+- [ ] Get page for LowFeeNFT fully integrated into NFTEarth App
+
 Staking Tasks: 
 
 - [ ] Add Epoch countdown timer on Staking Page that resets every 7 days at 00:00 UTC Thursday
